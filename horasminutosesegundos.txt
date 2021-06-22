@@ -1,0 +1,11 @@
+1 minuto = 60 segundos
+
+1 hora = 60 minutos
+ 
+1 hora = 3600 segundos
+
+3601 = 1hora:0min:1seg
+
+3662
+62 (Resto)
+1:1:2
